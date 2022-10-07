@@ -1,5 +1,9 @@
 #EXTM3U 
 
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="LOKAL",888 RCTI
+rtsp://cdn.mivo.tv/mivotv
+
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvri_big1.png" group-title="LOKAL",880 TVRI HD
 rtp://@239.1.1.238:8016
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sctv_big1.png" group-title="LOKAL",914 SCTV HD
