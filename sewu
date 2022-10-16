@@ -644,3 +644,6 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w987955597.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="MUSIC",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="AJADIBUKA",EMBUH
+https://ss57.litvp.com/stream/1/D2/d59MyKm2wqXs8Lh9A69a9gU5qooTzGS8QQS/hls1080/d59MyKm2wqXs8Lh9A69a9gU5qooTzGS8QQS1080.m3u8
